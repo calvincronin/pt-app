@@ -4,7 +4,7 @@
     "slug": "pt-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/app_icon.PNG",
+    "icon": "./assets/images/app_icon.png",
     "scheme": "ptapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -17,7 +17,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/app_icon.PNG",
+        "foregroundImage": "./assets/images/app_icon.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true
@@ -25,7 +25,7 @@
     "web": {
       "bundler": "metro",
       "output": "static",
-      "favicon": "./assets/images/app_icon.PNG"
+      "favicon": "./assets/images/app_icon.png"
     },
     "plugins": [
       "expo-router",
